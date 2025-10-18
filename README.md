@@ -1,7 +1,7 @@
 # Expense Tracker
 
 A simple **console-based Expense Tracker** built in **C#** using **.NET 7**.  
-This project allows users to **add, view, and calculate total expenses** using a **case-insensitive dictionary** and follows **object-oriented programming (OOP) principles**.
+This project allows users to **add, view, and calculate total expenses** using a **case-insensitive object** and follows **object-oriented programming (OOP) principles**.
 
 ---
 
